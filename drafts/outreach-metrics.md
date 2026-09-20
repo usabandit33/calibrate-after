@@ -2,4 +2,5 @@
 
 | Date | Touch | Sent | Bounce | Reply | Remove | Notes |
 |------|-------|------|--------|-------|--------|-------|
-| 2026-09-19 | — | 0 | 0 | 0 | 0 | Shipped; Pages not live; no T1 |
+| 2026-09-19 | — | 0 | 0 | 0 | 0 | Shipped; Pages not live |
+| 2026-09-20 | T1 | 2 | 0 | 0 | 0 | Universal Glass, BlueChip; Pages 200 |
